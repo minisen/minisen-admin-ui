@@ -1,7 +1,7 @@
 # minisen-admin-ui
 MiniSen权限管理系统UI
 
-演示地址：http://81.71.0.216:2021/
+演示地址：http://81.71.0.216:2021/ <br/>
 演示账号：minisen  密码：minisen
 
 ---希望我的代码能帮助到你，如果觉得不错的话，别忘记STAR，也可以请我喝瓶可乐哦~cheers~---<br/>
